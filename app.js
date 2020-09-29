@@ -69,3 +69,4 @@ function nextPlayer(){
 }
 
 document.querySelector('.btn-new').addEventListener('click',init);
+var pr;
